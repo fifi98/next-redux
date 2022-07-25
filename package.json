@@ -1,6 +1,6 @@
 {
   "name": "@fifi98/next-redux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package for setting up Redux with Next.js with ease.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
