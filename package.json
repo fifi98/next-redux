@@ -1,11 +1,17 @@
 {
   "name": "@fifi98/next-redux",
   "version": "1.0.0",
+  "description": "Package for setting up Redux with Next.js with ease.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "/dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fifi98/next-redux"
+  },
+  "license": "MIT",
   "devDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
